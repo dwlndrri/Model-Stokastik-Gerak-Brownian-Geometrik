@@ -1,0 +1,1 @@
+# Model-Stokastik-Gerak-Brownian-Geometrik
